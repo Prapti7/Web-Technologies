@@ -1,0 +1,30 @@
+h1{
+    background-color: blue;
+    font-size: xx-large;
+    text-decoration-color: cornsilk;
+}
+h2{
+    background-color: brown;
+    font-size: x-large;
+    color: darkslategray;
+}
+h3{
+    background-color: burlywood;
+    font-size: larger;
+    color: blueviolet;
+}
+h4{
+    background-color: mediumseagreen;
+    font-size: large;
+    color: beige;
+}
+h5{
+    background-color: darkcyan;
+    font-size: medium;
+    color: ghostwhite;
+}
+h6{
+    background-color: darkorange;
+    font-size: small;
+    color: darkolivegreen;
+}
