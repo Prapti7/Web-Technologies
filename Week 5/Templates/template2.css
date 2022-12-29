@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+    background-color: rgb(102, 165, 115);
+    }
+    .Tl{
+    margin-left: 60px;
+    padding-top: 100px;
+    padding-left: 60px;
+    font-size: 30px;
+    max-width: 70%;
+    color: #fff;
+    
+    }
+    .Tr{
+    position: absolute;
+    top: 15px;
+    margin-left: 800px;
+    padding: 30px ;
+    font-size: 15px;
+    color: #fff;
+    }
+    .img{
+    position:absolute;
+    margin-top: 20px;
+    margin-left: 100px;
+    
+    }
+    .img img{
+    height: 300px;
+    width: 1100px;
+    }
+    h2{
+        margin-top: 10%;
+    }
+    
