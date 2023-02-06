@@ -1,0 +1,23 @@
+header, footer{
+    border:3px solid rgb(255, 146, 38);
+    border-radius: 20px;
+    background-color: rgb(185, 183, 149);
+    padding: 30px;
+    text-align: center;
+    font-size: 100px;
+}
+#content {
+    border:3px solid firebrick;
+    background-color:cornflowerblue;
+    padding: 100px;
+    flex:3; 
+}
+#Ashlesha {
+    border:3px solid brown;
+    background-color: coral;
+    padding: 100px;
+    flex:1;
+}
+main{
+    display:flex;
+}
